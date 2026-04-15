@@ -1,0 +1,4 @@
+2026-04-10 INFO Usuario autenticado
+2026-04-10 ERROR Fallo en login
+2026-04-10 WARNING Intento sospechoso
+2026-04-10 ERROR Token inválido
